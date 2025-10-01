@@ -1,6 +1,6 @@
 """
 Module: car_rental.py
-Developer: Your Name
+Developer: Ogochukwu Ejinkeonye
 Date Created: 2025-09-30
 Date Last Modified: 2025-09-30
 Description: Defines the Car_Rental class for calculating rental charges.
