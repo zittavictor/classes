@@ -1,6 +1,6 @@
 """
 Module: pay_stub.py
-Developer: Your Name
+Developer: Ogochukwu Ejinkeonye
 Date Created: 2025-09-30
 Date Last Modified: 2025-09-30
 Description: Defines the Pay_Stub class with payroll calculations and summary tracking.
